@@ -1,0 +1,129 @@
+/* header */
+.navbar-expand-lg{
+    background-image: linear-gradient(to right,#ED765E, #FEA858) !important;
+}
+
+.fa-shopping-cart, .fa-user-circle{
+    font-size: 25px  !important;
+}
+
+.btn-outline-success{
+    color: black !important; 
+    border-color: black  !important;  
+}
+button:hover{
+    background-color: coral !important;
+}
+
+
+/* footer */
+.footer{
+    width:100% !important;
+    height: 60px !important;
+    background-image: linear-gradient(to right,#ED765E, #FEA858 ) !important;
+    position: fixed;
+    bottom: 0;
+}
+
+.footer>div{
+    text-align: center !important;
+}
+div > h6{
+    padding-top: 10px !important;
+}
+
+/* body */
+
+.main{
+    margin-top: 70px !important;
+    text-align: center !important;
+    margin-bottom: 70px !important;
+}
+
+h1{
+    font-weight: bolder !important;
+    font-family: 'Times New Roman', "Times", "serif" !important;
+    color: coral !important;
+}
+
+h2{
+    color: darkgoldenrod !important;
+    font-weight: bold !important;
+    font-family: 'Times New Roman', "Times", "serif" !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+.card{
+    display: inline-block !important;
+    font-family: 'Times New Roman', "Times", "serif" !important;   
+    justify-content: space-evenly !important; 
+}
+
+.btn-primary{
+    background-image: linear-gradient(to right,#ED765E, #FEA858 ) !important;
+    border-color: #ED765E !important;
+    color:black !important;
+    font-weight: normal !important;
+
+}
+.about{
+    text-align: justify !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    font-family: 'Times New Roman', "Times", "serif" !important;   
+}
+
+form{
+    text-align: left !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+
+.button{
+    background-image: linear-gradient(to right,#ED765E, #FEA858 ) !important;
+    border-radius: 5px !important;
+    margin-top: 3px;
+}
+
+.account{
+    background-color: lightgrey !important;
+}
+
+.name{
+    font-size: 30pt !important;
+    color: crimson !important;
+}
+
+table{
+    background-image: linear-gradient(to right,#ED765E, #FEA858 ) !important;
+    font-family: 'Times New Roman', "Times", "serif" !important;
+    padding: 30px 30px 30px 30px;
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+}
+
+.thank{
+    text-align: center;
+    margin-top: 180px;
+}
+
+.cart{
+    text-align: center;
+    margin-top: 180px;
+    font-size: 24pt;
+}
+
+.signup{
+    background-image: linear-gradient(to right,rgb(241, 195, 185), rgb(245, 200, 158) ) !important;
+    font-family: 'Times New Roman', "Times", "serif" !important;
+    padding: 30px 30px 30px 30px;
+    display: block;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
